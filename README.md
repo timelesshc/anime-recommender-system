@@ -1,5 +1,5 @@
 ### 1. Project Introduction
-An Anime recommendation system using LLM and RAG techniques.
+An anime recommendation system using LLM and RAG pipelines.
 ![alt text](images/app.png)
 - **Tech stack**
 
