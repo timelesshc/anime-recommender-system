@@ -25,7 +25,7 @@ An anime recommendation system using LLM and RAG pipelines.
   ```bash
   git clone https://github.com/timelesshc/anime-recommender-system.git
   ls
-  cd TESTING-9
+  cd anime-recommender-system
   ls  # You should see the contents of your project
   ```
 
