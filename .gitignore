@@ -2,3 +2,4 @@ venv/
 logs/
 anime_recommender.egg-info
 .env
+.vscode
